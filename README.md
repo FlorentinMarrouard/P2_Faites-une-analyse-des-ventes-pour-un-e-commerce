@@ -1,4 +1,6 @@
 Mission 1 : Vérification et présentation des graphiques
+
+
 Mission 2 : Analyse des données de clients affiliés
 
 Livrables : 
